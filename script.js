@@ -202,4 +202,4 @@ let product = multiplyAll([
 ]);
 
 console.log(product);*/
-console.log("hello world");
+console.log("hello world!");
